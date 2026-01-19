@@ -1,4 +1,7 @@
-## Practice of advanced C++ programming for embeded system
+Practice of advanced C++ programming for embeded system
 
-### multi-core parallel calculation in discretization
+**multi-core parallel calculation in discretization***
 implement the multi-core parallel calculation in dynamics discretization
+
+**CRPT**
+compile-time polymorphism
