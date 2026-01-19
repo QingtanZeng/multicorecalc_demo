@@ -8,8 +8,7 @@
       "includePath": [
         "/opt/ros/jazzy/include/**",
         "/usr/include/**",
-        "${workspaceFolder}/include/**",
-        "${workspaceFolder}/lib/cppad/include/cppad/**"
+        "${workspaceFolder}/include/**"
       ],
       "name": "demo",
       "intelliSenseMode": "gcc-x64",
