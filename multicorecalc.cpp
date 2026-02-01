@@ -62,7 +62,6 @@ public:
                 // 2. 写入全局结果 (使用 std::move 或直接写入避免拷贝)
                 // 假设这是构建复杂的动力学矩阵
                 for(int r=0; r<10; ++r) dicsdyn[idx].bias_vector[r] = energy * r * 0.001;
-                for(int r=0; r<6; ++r) dicsdyn[idx].bias_vector[r] = energy * r * 0.001;
 
                 resthdloc.total_energy += energy;
 
